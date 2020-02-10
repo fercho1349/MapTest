@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_cdmx"
+        android:title="@string/action_cdmx"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_monterrey"
+        android:title="@string/action_monterrey"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_guadalajara"
+        android:title="@string/action_guadalajara"
+        app:showAsAction="never"/>
+
+</menu>
